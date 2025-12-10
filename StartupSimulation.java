@@ -1,3 +1,6 @@
+
+// THIS ONE WAS CHANGED BY JALA VERDIYEVA THAT INITIAL ONE IS IN FILE src
+
 import java.util.Random;
 import java.util.Scanner;
 
