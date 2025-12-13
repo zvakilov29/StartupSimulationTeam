@@ -20,7 +20,7 @@ public class StartupSimulation {
         Random random = new Random();
 
         // ==================================================================
-        // WORKSPACE: TECHNOLOGY DEVELOPMENT AND TESTING 👷🏻‍♀️(Zakariyya Vakilov)
+        // WORKSPACE: TECHNOLOGY DEVELOPMENT AND TESTING 👷🏻‍♀️
         // ==================================================================
 
         // TASK 2: Get Team Name
@@ -108,7 +108,7 @@ public class StartupSimulation {
 
 
         // ==================================================================
-        // TƏLƏBƏ B İŞ SAHƏSİ: MALİYYƏ ANALİZİ VƏ BAZAR STRATEJİYASI 👷🏻‍♀️(Jala Verdiyeva)
+        // TƏLƏBƏ B İŞ SAHƏSİ: MALİYYƏ ANALİZİ VƏ BAZAR STRATEJİYASI 👷🏻‍♀️
         // ==================================================================
 
 // 5. MARKET TESTING (DO-WHILE LOOP)
@@ -248,7 +248,7 @@ public class StartupSimulation {
             }
         }
 
-        // 8. ADDITIONAL REPORT AND CODE CLEANUP  (Tələbə A 👷🏻‍♀️(Zakariyya Vakilov))
+        // 8. ADDITIONAL REPORT AND CODE CLEANUP  (Tələb A 👷🏻‍♀️)
 
         if (!isProjectClosed) {
             System.out.println("\n--- 7. Additional Report and Code Cleanup ---");
